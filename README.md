@@ -4,7 +4,7 @@ This is a pdf generator that allows you to create and download dynamic PDF files
 ## Project Setup
   Open two different terminals:<br/>
   1.Go into the client directory and run<br/><br/>
-    npm start <br/>
+    npm start <br/><br/>
   2.Go into the server directory and run<br/><br/>
     nodemon index.js
 
