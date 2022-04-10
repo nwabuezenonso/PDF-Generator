@@ -8,4 +8,4 @@ This is a pdf generator that allows you to create and download dynamic PDF files
   2.Go into the server directory and run<br/><br/>
     nodemon index.js
 
-Open http://localhost:3000 with your browser, fill in some details and wait for the result.
+Open http://localhost:3000 with your browser, fill the required details and wait for the pdf to generate.
